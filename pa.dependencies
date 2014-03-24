@@ -121,68 +121,8 @@
     },
     {
         "remote": "github",
-        "repository": "CyanogenMod/android_device_generic_armv7-a-neon",
-        "target_path": "device/generic/armv7-a-neon",
-        "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/android_device_generic_common",
-        "target_path": "device/generic/common",
-        "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/android_bootable_recovery",
-        "target_path": "bootable/recovery",
-         "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/android_external_pigz",
-        "target_path": "external/pigz",
-        "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/android_external_fsck_msdos",
-        "target_path": "external/fsck_msdos",
-        "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/android_external_yaffs2",
-        "target_path": "external/yaffs2",
-        "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/android_external_zlib",
-        "target_path": "external/zlib",
-         "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/android_external_e2fsprogs",
-        "target_path": "external/e2fsprogs",
-         "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
         "repository": "CyanogenMod/android_external_wpa_supplicant_8_ti",
         "target_path": "external/wpa_supplicant_8_ti",
-         "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/Superuser",
-        "target_path": "external/koush/Superuser",
-         "revision": "cm-11.0"
-    },
-    {
-        "remote": "github",
-        "repository": "CyanogenMod/Widgets",
-        "target_path": "external/koush/Widgets",
          "revision": "cm-11.0"
     },
     {
