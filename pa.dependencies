@@ -127,7 +127,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "TheMuppets/proprietary_vendor_sony",
+        "repository":   "SuperHanss/proprietary_vendor_sony",
         "target_path":  "vendor/sony",
         "revision":     "cm-11.0"
     }
