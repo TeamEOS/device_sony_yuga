@@ -27,6 +27,9 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/yuga/bluetooth
 
 TARGET_KERNEL_CONFIG := cm_fusion3_yuga_defconfig
 
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
+
 # Recovery
 BOARD_RECOVERY_CWM := true 
 
