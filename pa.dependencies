@@ -37,6 +37,12 @@
     },
     {
         "remote":       "github",
+        "repository":   "SuperHanss/android_hardware_qcom_audio-caf",
+        "target_path":  "hardware/qcom/audio-caf",
+        "revision":     "cm-11.0"
+    },  
+    {
+        "remote":       "github",
         "repository":   "CyanogenMod/android_hardware_ti_wlan",
         "target_path":  "hardware/ti/wlan",
         "revision":     "cm-11.0"
