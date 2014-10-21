@@ -3,7 +3,7 @@
         "remote":       "github",
         "repository":   "SuperHanss/android_kernel_sony_apq8064",
         "target_path":  "kernel/sony/apq8064",
-        "revision":     "sony-4.4"
+        "revision":     "sony-4.4-new"
     },
     {
         "remote":       "github",
@@ -37,8 +37,8 @@
     },
     {
         "remote":       "github",
-        "repository":   "TheMuppets/proprietary_vendor_sony",
+        "repository":   "SuperHanss/proprietary_vendor_sony",
         "target_path":  "vendor/sony",
-        "revision":     "cm-11.0"
+        "revision":     "sony-4.4"
     }
 ]
