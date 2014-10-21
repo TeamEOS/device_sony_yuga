@@ -20,6 +20,7 @@ etc/firmware/touch_module_id_0x41.img
 etc/firmware/touch_module_id_0x42.img
 etc/flashled_calc_parameters.cfg
 lib/hw/nfc.msm8960.so
+lib/touchfilter/tftype4.so
 lib/libaudcal.so
 lib/libcald_server.so
 lib/liboemcamera.so
