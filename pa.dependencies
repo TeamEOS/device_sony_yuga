@@ -3,7 +3,7 @@
         "remote":       "github",
         "repository":   "SuperHanss/android_kernel_sony_apq8064",
         "target_path":  "kernel/sony/apq8064",
-        "revision":     "sony-4.4-new"
+        "revision":     "kitkat"
     },
     {
         "remote":       "github",
