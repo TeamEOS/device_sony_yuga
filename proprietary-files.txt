@@ -13,6 +13,7 @@ etc/firmware/dsps.b02
 etc/firmware/dsps.b03
 etc/firmware/dsps.b04
 etc/firmware/dsps.b05
+etc/firmware/dsps.flist
 etc/firmware/dsps.mdt
 etc/firmware/touch_module_id_0x36.img
 etc/firmware/touch_module_id_0x37.img
