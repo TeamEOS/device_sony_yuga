@@ -38,5 +38,5 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 2147483648
 BOARD_HARDWARE_CLASS += device/sony/yuga/cmhw
 
 # TWRP
-DEVICE_RESOLUTION=1080x1920
+TW_THEME := portrait_hdpi
 TW_BRIGHTNESS_PATH := /sys/devices/i2c-0/0-0036/leds/lm3533-lcd-bl/brightness
